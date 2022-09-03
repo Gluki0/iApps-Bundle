@@ -1,0 +1,34 @@
+{
+    "name": "iApps Bundle",
+    "identifier": "iappsbundle",
+    "sourceLinkTitle": "iApps Bundle",
+    "sourceLinkUrl": "iApps Bundle",
+	"sourceImage": "     ",
+    "appCategories": [
+        "iApps Bundle Source"
+    ],
+    "apps": [
+
+        {
+            "name": "Null Music",
+            "version": "2.5.2",
+            "downloadURL": "https://www.dropbox.com/s/l3r31bbs8qjz2s6/Null%2BMusic%2B2.5.2.ipa?dl=1",
+            "localizedDescription": "",
+            "versionDate": "2022-09-02T23:59:00+0800",
+            "iconURL": " ",
+        },
+        
+        {
+            "name": "KinoHome",
+            "version": "2.2",
+            "downloadURL": "https://www.dropbox.com/s/gz4w4674s7thlq9/KinoHome%202.2.ipa?dl=1",
+            "localizedDescription": "",
+            "versionDate": "2022-09-02T23:59:00+0800",
+            "iconURL": "https://cdn4.telegram-cdn.org/file/dz6JdLQ7g2xZtJsFPoiPt7nPyVQpiPh9PA56xAXHGRJvRnTktoP8IU5aD2oYzL4eCTuxeg4jcEo1cr7_5mM4Hn-zJJDuo5smijAys1J-K6xfSqSeuyV5JH9xQaMIyDd3dKB5_-FuZtIBBErV5tZn6NRzUrIA5VbJl7EJFXNYm5cQznENxGT3QtQ9p-diVdFUyQJO723VdndeM3yDx2iOJ7gqbpHuer82FwaMMwCjup4ZRFu6FAZL8Rr8cVx5aJu5_-31YEz-M9I0uEYi8CLm39rbxOth93THeGrDzwLHoRG5FDMIbHRd7iUOWcHj2m4bF2ucuXLKRHrYVW-sTIGylg.jpg",
+        },
+       
+
+
+       
+    ]
+}
